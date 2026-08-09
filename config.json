@@ -11,15 +11,15 @@
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "",
-    "AMDIN_NAME": "",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": "",
+    "BOTNAME": "Zar Vis",
+    "AMDIN_NAME": "  𝐉⃝   ̶  ̶  ̶𝐚͡𝐜͜𝐤𝐬𝐨𝐧ﮩﮩ٨ــﮩــــ𓆩♥︎𓀠      ﮩﮩ٨ــﮩــــ𓆩",
+    "FACEBOOK_ADMIN": "  𝐉⃝   ̶  ̶  ̶𝐚͡𝐜͜𝐤𝐬𝐨𝐧ﮩﮩ٨ــﮩــــ𓆩♥︎𓀠      ﮩﮩ٨ــﮩــــ𓆩",
+    "PREFIX": "*",
     "ADMINBOT": [
-        ""
+        "100091340464285"
     ],
     "NDH": [
-        ""
+        "100091340464285"
     ],
     "DATABASE": {
         "sqlite": {
